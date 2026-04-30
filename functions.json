@@ -1,0 +1,101 @@
+[
+  {
+    "func": "a0 + a1",
+    "num_params": 2,
+    "weight": 5
+  },
+  {
+    "func": "a0 - a1",
+    "num_params": 2,
+    "weight": 5
+  },
+  {
+    "func": "a0 * a1",
+    "num_params": 2,
+    "weight": 5
+  },
+  {
+    "func": "a0 / a1",
+    "num_params": 2,
+    "weight": 5
+  },
+  {
+    "func": "a0 ** a1",
+    "num_params": 2,
+    "weight": 4
+  },
+  {
+    "func": "abs(a0)",
+    "num_params": 1,
+    "weight": 2
+  },
+  {
+    "func": "exp(a0)",
+    "num_params": 1,
+    "weight": 2
+  },
+  {
+    "func": "log(a0)",
+    "num_params": 1,
+    "weight": 2
+  },
+  {
+    "func": "sin(a0)",
+    "num_params": 1,
+    "weight": 1
+  },
+  {
+    "func": "cos(a0)",
+    "num_params": 1,
+    "weight": 1
+  },
+  {
+    "func": "tan(a0)",
+    "num_params": 1,
+    "weight": 1
+  },
+  {
+    "func": "arcsin(a0)",
+    "num_params": 1,
+    "weight": 0.5
+  },{
+    "func": "arccos(a0)",
+    "num_params": 1,
+    "weight": 0.5
+  },
+  {
+    "func": "arctan(a0)",
+    "num_params": 1,
+    "weight": 0.5
+  },
+  {
+    "func": "sinh(a0)",
+    "num_params": 1,
+    "weight": 0.5
+  },
+  {
+    "func": "cosh(a0)",
+    "num_params": 1,
+    "weight": 0.5
+  },
+  {
+    "func": "tanh(a0)",
+    "num_params": 1,
+    "weight": 0.5
+  },
+  {
+    "func": "arsinh(a0)",
+    "num_params": 1,
+    "weight": 0.25
+  },
+  {
+    "func": "arcosh(a0)",
+    "num_params": 1,
+    "weight": 0.25
+  },
+  {
+    "func": "artanh(a0)",
+    "num_params": 1,
+    "weight": 0.25
+  }
+]
